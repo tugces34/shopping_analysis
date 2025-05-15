@@ -1,14 +1,15 @@
 
-
-Bu proje,müşterilerin alışveriş verilerini analiz etmek ve görselleştirir ve
+Bu proje,müşterilerin alışveriş verilerini görselleştirir ve
 analiz eder
+
 # Bağımlılıklar
 Projeyi çalıştırmak için gerekli kütüphaneler:
-numpy 
-pandas
-matplotlib.pyplot 
-seaborn 
-
+```
+ numpy 
+ pandas
+ matplotlib.pyplot 
+ seaborn 
+```
 # çalışması için gereken kurulumlar
 
 ```python
@@ -19,3 +20,4 @@ seaborn
 ```
 
 ![dashboard](./img.png)
+# microsoft power bı ile hazırlanmıştır.
